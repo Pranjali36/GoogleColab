@@ -5,3 +5,4 @@ streamlit_player
 Pillow
 gTTS
 textblob
+pygame
