@@ -3,3 +3,4 @@ streamlit-3d
 streamlit-extras
 streamlit_player
 Pillow
+gTTS
