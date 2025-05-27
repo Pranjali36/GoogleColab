@@ -35,7 +35,7 @@ def animate_tree_growth():
     for i, img_name in enumerate(tree_images):
         img_path = os.path.join(tree_folder, img_name)
         img = Image.open(img_path)
-        st.image(img, caption=f"Stage {i+1}", use_column_width=True)
+        st.image(img, caption=f"Stage {i+1}", use_container_width=True)
         time.sleep(6)  # 5 stages x 6 = ~30s
     time.sleep(3)
 
