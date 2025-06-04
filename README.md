@@ -38,6 +38,7 @@ Name it Blossom and save to Assets/Prefabs/.
 ✅ Done! You now have all three prefabs.
 
 ** Folder Structure to Provide**
+
 Assets/
 ├── Audio/
 │   └── bloom_intro.mp3
